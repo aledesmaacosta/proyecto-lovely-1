@@ -213,7 +213,16 @@ p{
     width: 200px;
     height: 200px;
 }
+.card{
+    width: 500px;
+    height: 500px;
 
+}
+
+.card img{
+    width: 400px;
+    height: 400px;
+}
 
 footer{
     background-color: #A2FF00;
